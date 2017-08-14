@@ -1,0 +1,6 @@
+D:\Visual Studio Projects\ConSorting\ConSorting\bin\Debug\ConSorting.exe.config
+D:\Visual Studio Projects\ConSorting\ConSorting\bin\Debug\ConSorting.exe
+D:\Visual Studio Projects\ConSorting\ConSorting\bin\Debug\ConSorting.pdb
+D:\Visual Studio Projects\ConSorting\ConSorting\obj\Debug\ConSorting.csprojResolveAssemblyReference.cache
+D:\Visual Studio Projects\ConSorting\ConSorting\obj\Debug\ConSorting.exe
+D:\Visual Studio Projects\ConSorting\ConSorting\obj\Debug\ConSorting.pdb

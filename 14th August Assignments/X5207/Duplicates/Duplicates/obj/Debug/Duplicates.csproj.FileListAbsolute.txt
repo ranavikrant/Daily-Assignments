@@ -1,0 +1,6 @@
+c:\users\sathe_a\documents\visual studio 2015\Projects\Duplicates\Duplicates\bin\Debug\Duplicates.exe.config
+c:\users\sathe_a\documents\visual studio 2015\Projects\Duplicates\Duplicates\bin\Debug\Duplicates.exe
+c:\users\sathe_a\documents\visual studio 2015\Projects\Duplicates\Duplicates\bin\Debug\Duplicates.pdb
+c:\users\sathe_a\documents\visual studio 2015\Projects\Duplicates\Duplicates\obj\Debug\Duplicates.csprojResolveAssemblyReference.cache
+c:\users\sathe_a\documents\visual studio 2015\Projects\Duplicates\Duplicates\obj\Debug\Duplicates.exe
+c:\users\sathe_a\documents\visual studio 2015\Projects\Duplicates\Duplicates\obj\Debug\Duplicates.pdb

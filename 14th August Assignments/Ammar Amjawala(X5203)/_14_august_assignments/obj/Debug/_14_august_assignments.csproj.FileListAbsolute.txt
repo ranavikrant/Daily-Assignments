@@ -1,0 +1,6 @@
+c:\users\amjawala_am\documents\visual studio 2015\Projects\_14_august_assignments\_14_august_assignments\bin\Debug\_14_august_assignments.exe.config
+c:\users\amjawala_am\documents\visual studio 2015\Projects\_14_august_assignments\_14_august_assignments\bin\Debug\_14_august_assignments.exe
+c:\users\amjawala_am\documents\visual studio 2015\Projects\_14_august_assignments\_14_august_assignments\bin\Debug\_14_august_assignments.pdb
+c:\users\amjawala_am\documents\visual studio 2015\Projects\_14_august_assignments\_14_august_assignments\obj\Debug\_14_august_assignments.csprojResolveAssemblyReference.cache
+c:\users\amjawala_am\documents\visual studio 2015\Projects\_14_august_assignments\_14_august_assignments\obj\Debug\_14_august_assignments.exe
+c:\users\amjawala_am\documents\visual studio 2015\Projects\_14_august_assignments\_14_august_assignments\obj\Debug\_14_august_assignments.pdb
