@@ -1,0 +1,6 @@
+c:\users\chouhan_r\documents\visual studio 2015\Projects\MemoryManagement\MemoryManagement\bin\Debug\MemoryManagement.exe.config
+c:\users\chouhan_r\documents\visual studio 2015\Projects\MemoryManagement\MemoryManagement\bin\Debug\MemoryManagement.exe
+c:\users\chouhan_r\documents\visual studio 2015\Projects\MemoryManagement\MemoryManagement\bin\Debug\MemoryManagement.pdb
+c:\users\chouhan_r\documents\visual studio 2015\Projects\MemoryManagement\MemoryManagement\obj\Debug\MemoryManagement.csprojResolveAssemblyReference.cache
+c:\users\chouhan_r\documents\visual studio 2015\Projects\MemoryManagement\MemoryManagement\obj\Debug\MemoryManagement.exe
+c:\users\chouhan_r\documents\visual studio 2015\Projects\MemoryManagement\MemoryManagement\obj\Debug\MemoryManagement.pdb
