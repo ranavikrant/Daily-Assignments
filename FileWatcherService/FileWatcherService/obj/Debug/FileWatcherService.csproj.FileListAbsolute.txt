@@ -1,0 +1,13 @@
+c:\users\chouhan_r\documents\visual studio 2015\Projects\FileWatcherService\FileWatcherService\bin\Debug\FileWatcherService.exe.config
+c:\users\chouhan_r\documents\visual studio 2015\Projects\FileWatcherService\FileWatcherService\bin\Debug\FileWatcherService.exe
+c:\users\chouhan_r\documents\visual studio 2015\Projects\FileWatcherService\FileWatcherService\bin\Debug\FileWatcherService.pdb
+c:\users\chouhan_r\documents\visual studio 2015\Projects\FileWatcherService\FileWatcherService\obj\Debug\FileWatcherService.csprojResolveAssemblyReference.cache
+c:\users\chouhan_r\documents\visual studio 2015\Projects\FileWatcherService\FileWatcherService\obj\Debug\FileWatcherService.ProjectInstaller.resources
+c:\users\chouhan_r\documents\visual studio 2015\Projects\FileWatcherService\FileWatcherService\obj\Debug\FileWatcherService.Service1.resources
+c:\users\chouhan_r\documents\visual studio 2015\Projects\FileWatcherService\FileWatcherService\obj\Debug\FileWatcherService.csproj.GenerateResource.Cache
+c:\users\chouhan_r\documents\visual studio 2015\Projects\FileWatcherService\FileWatcherService\obj\Debug\FileWatcherService.exe
+c:\users\chouhan_r\documents\visual studio 2015\Projects\FileWatcherService\FileWatcherService\obj\Debug\FileWatcherService.pdb
+c:\Users\chouhan_r\Documents\Visual Studio 2015\Projects\FileWatcherService\FileWatcherService\bin\Debug\FileWatcherService.exe.manifest
+c:\Users\chouhan_r\Documents\Visual Studio 2015\Projects\FileWatcherService\FileWatcherService\bin\Debug\FileWatcherService.application
+c:\Users\chouhan_r\Documents\Visual Studio 2015\Projects\FileWatcherService\FileWatcherService\obj\Debug\FileWatcherService.exe.manifest
+c:\Users\chouhan_r\Documents\Visual Studio 2015\Projects\FileWatcherService\FileWatcherService\obj\Debug\FileWatcherService.application

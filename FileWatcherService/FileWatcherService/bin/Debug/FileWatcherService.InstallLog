@@ -1,0 +1,118 @@
+﻿Installing assembly 'C:\Users\chouhan_r\Documents\Visual Studio 2015\Projects\FileWatcherService\FileWatcherService\bin\Debug\FileWatcherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\chouhan_r\Documents\Visual Studio 2015\Projects\FileWatcherService\FileWatcherService\bin\Debug\FileWatcherService.InstallLog
+   assemblypath = C:\Users\chouhan_r\Documents\Visual Studio 2015\Projects\FileWatcherService\FileWatcherService\bin\Debug\FileWatcherService.exe
+Installing service FileWatcherService...
+Service FileWatcherService has been successfully installed.
+Creating EventLog source FileWatcherService in log Application...
+Committing assembly 'C:\Users\chouhan_r\Documents\Visual Studio 2015\Projects\FileWatcherService\FileWatcherService\bin\Debug\FileWatcherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\chouhan_r\Documents\Visual Studio 2015\Projects\FileWatcherService\FileWatcherService\bin\Debug\FileWatcherService.InstallLog
+   assemblypath = C:\Users\chouhan_r\Documents\Visual Studio 2015\Projects\FileWatcherService\FileWatcherService\bin\Debug\FileWatcherService.exe
+Uninstalling assembly 'C:\Users\chouhan_r\Documents\Visual Studio 2015\Projects\FileWatcherService\FileWatcherService\bin\Debug\FileWatcherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\chouhan_r\Documents\Visual Studio 2015\Projects\FileWatcherService\FileWatcherService\bin\Debug\FileWatcherService.InstallLog
+   assemblypath = C:\Users\chouhan_r\Documents\Visual Studio 2015\Projects\FileWatcherService\FileWatcherService\bin\Debug\FileWatcherService.exe
+Removing EventLog source FileWatcherService.
+Service FileWatcherService is being removed from the system...
+Service FileWatcherService was successfully removed from the system.
+Installing assembly 'C:\Users\chouhan_r\Documents\Visual Studio 2015\Projects\FileWatcherService\FileWatcherService\bin\Debug\FileWatcherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\chouhan_r\Documents\Visual Studio 2015\Projects\FileWatcherService\FileWatcherService\bin\Debug\FileWatcherService.InstallLog
+   assemblypath = C:\Users\chouhan_r\Documents\Visual Studio 2015\Projects\FileWatcherService\FileWatcherService\bin\Debug\FileWatcherService.exe
+Installing service FileWatcherService...
+Service FileWatcherService has been successfully installed.
+Creating EventLog source FileWatcherService in log Application...
+Committing assembly 'C:\Users\chouhan_r\Documents\Visual Studio 2015\Projects\FileWatcherService\FileWatcherService\bin\Debug\FileWatcherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\chouhan_r\Documents\Visual Studio 2015\Projects\FileWatcherService\FileWatcherService\bin\Debug\FileWatcherService.InstallLog
+   assemblypath = C:\Users\chouhan_r\Documents\Visual Studio 2015\Projects\FileWatcherService\FileWatcherService\bin\Debug\FileWatcherService.exe
+Uninstalling assembly 'C:\Users\chouhan_r\Documents\Visual Studio 2015\Projects\FileWatcherService\FileWatcherService\bin\Debug\FileWatcherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\chouhan_r\Documents\Visual Studio 2015\Projects\FileWatcherService\FileWatcherService\bin\Debug\FileWatcherService.InstallLog
+   assemblypath = C:\Users\chouhan_r\Documents\Visual Studio 2015\Projects\FileWatcherService\FileWatcherService\bin\Debug\FileWatcherService.exe
+Removing EventLog source FileWatcherService.
+Service FileWatcherService is being removed from the system...
+Service FileWatcherService was successfully removed from the system.
+Installing assembly 'C:\Users\chouhan_r\Documents\Visual Studio 2015\Projects\FileWatcherService\FileWatcherService\bin\Debug\FileWatcherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\chouhan_r\Documents\Visual Studio 2015\Projects\FileWatcherService\FileWatcherService\bin\Debug\FileWatcherService.InstallLog
+   assemblypath = C:\Users\chouhan_r\Documents\Visual Studio 2015\Projects\FileWatcherService\FileWatcherService\bin\Debug\FileWatcherService.exe
+Installing service FileWatcherService...
+Service FileWatcherService has been successfully installed.
+Creating EventLog source FileWatcherService in log Application...
+Committing assembly 'C:\Users\chouhan_r\Documents\Visual Studio 2015\Projects\FileWatcherService\FileWatcherService\bin\Debug\FileWatcherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\chouhan_r\Documents\Visual Studio 2015\Projects\FileWatcherService\FileWatcherService\bin\Debug\FileWatcherService.InstallLog
+   assemblypath = C:\Users\chouhan_r\Documents\Visual Studio 2015\Projects\FileWatcherService\FileWatcherService\bin\Debug\FileWatcherService.exe
+Uninstalling assembly 'C:\Users\chouhan_r\Documents\Visual Studio 2015\Projects\FileWatcherService\FileWatcherService\bin\Debug\FileWatcherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\chouhan_r\Documents\Visual Studio 2015\Projects\FileWatcherService\FileWatcherService\bin\Debug\FileWatcherService.InstallLog
+   assemblypath = C:\Users\chouhan_r\Documents\Visual Studio 2015\Projects\FileWatcherService\FileWatcherService\bin\Debug\FileWatcherService.exe
+Removing EventLog source FileWatcherService.
+Service FileWatcherService is being removed from the system...
+Service FileWatcherService was successfully removed from the system.
+Installing assembly 'C:\Users\chouhan_r\Documents\Visual Studio 2015\Projects\FileWatcherService\FileWatcherService\bin\Debug\FileWatcherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\chouhan_r\Documents\Visual Studio 2015\Projects\FileWatcherService\FileWatcherService\bin\Debug\FileWatcherService.InstallLog
+   assemblypath = C:\Users\chouhan_r\Documents\Visual Studio 2015\Projects\FileWatcherService\FileWatcherService\bin\Debug\FileWatcherService.exe
+Installing service FileWatcherService...
+Service FileWatcherService has been successfully installed.
+Creating EventLog source FileWatcherService in log Application...
+Committing assembly 'C:\Users\chouhan_r\Documents\Visual Studio 2015\Projects\FileWatcherService\FileWatcherService\bin\Debug\FileWatcherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\chouhan_r\Documents\Visual Studio 2015\Projects\FileWatcherService\FileWatcherService\bin\Debug\FileWatcherService.InstallLog
+   assemblypath = C:\Users\chouhan_r\Documents\Visual Studio 2015\Projects\FileWatcherService\FileWatcherService\bin\Debug\FileWatcherService.exe
+Uninstalling assembly 'C:\Users\chouhan_r\Documents\Visual Studio 2015\Projects\FileWatcherService\FileWatcherService\bin\Debug\FileWatcherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\chouhan_r\Documents\Visual Studio 2015\Projects\FileWatcherService\FileWatcherService\bin\Debug\FileWatcherService.InstallLog
+   assemblypath = C:\Users\chouhan_r\Documents\Visual Studio 2015\Projects\FileWatcherService\FileWatcherService\bin\Debug\FileWatcherService.exe
+Removing EventLog source FileWatcherService.
+Service FileWatcherService is being removed from the system...
+Service FileWatcherService was successfully removed from the system.
+Installing assembly 'C:\Users\chouhan_r\Documents\Visual Studio 2015\Projects\FileWatcherService\FileWatcherService\bin\Debug\FileWatcherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\chouhan_r\Documents\Visual Studio 2015\Projects\FileWatcherService\FileWatcherService\bin\Debug\FileWatcherService.InstallLog
+   assemblypath = C:\Users\chouhan_r\Documents\Visual Studio 2015\Projects\FileWatcherService\FileWatcherService\bin\Debug\FileWatcherService.exe
+Installing service FileWatcherService...
+Service FileWatcherService has been successfully installed.
+Creating EventLog source FileWatcherService in log Application...
+Committing assembly 'C:\Users\chouhan_r\Documents\Visual Studio 2015\Projects\FileWatcherService\FileWatcherService\bin\Debug\FileWatcherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\chouhan_r\Documents\Visual Studio 2015\Projects\FileWatcherService\FileWatcherService\bin\Debug\FileWatcherService.InstallLog
+   assemblypath = C:\Users\chouhan_r\Documents\Visual Studio 2015\Projects\FileWatcherService\FileWatcherService\bin\Debug\FileWatcherService.exe
+Uninstalling assembly 'C:\Users\chouhan_r\Documents\Visual Studio 2015\Projects\FileWatcherService\FileWatcherService\bin\Debug\FileWatcherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\chouhan_r\Documents\Visual Studio 2015\Projects\FileWatcherService\FileWatcherService\bin\Debug\FileWatcherService.InstallLog
+   assemblypath = C:\Users\chouhan_r\Documents\Visual Studio 2015\Projects\FileWatcherService\FileWatcherService\bin\Debug\FileWatcherService.exe
+Removing EventLog source FileWatcherService.
+Service FileWatcherService is being removed from the system...
+Service FileWatcherService was successfully removed from the system.
+Installing assembly 'C:\Users\chouhan_r\Documents\Visual Studio 2015\Projects\FileWatcherService\FileWatcherService\bin\Debug\FileWatcherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\chouhan_r\Documents\Visual Studio 2015\Projects\FileWatcherService\FileWatcherService\bin\Debug\FileWatcherService.InstallLog
+   assemblypath = C:\Users\chouhan_r\Documents\Visual Studio 2015\Projects\FileWatcherService\FileWatcherService\bin\Debug\FileWatcherService.exe
+Installing service FileWatcherService...
+Service FileWatcherService has been successfully installed.
+Creating EventLog source FileWatcherService in log Application...
+Committing assembly 'C:\Users\chouhan_r\Documents\Visual Studio 2015\Projects\FileWatcherService\FileWatcherService\bin\Debug\FileWatcherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\chouhan_r\Documents\Visual Studio 2015\Projects\FileWatcherService\FileWatcherService\bin\Debug\FileWatcherService.InstallLog
+   assemblypath = C:\Users\chouhan_r\Documents\Visual Studio 2015\Projects\FileWatcherService\FileWatcherService\bin\Debug\FileWatcherService.exe
