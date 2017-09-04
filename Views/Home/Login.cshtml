@@ -1,0 +1,18 @@
+﻿@model Authentication_Authorization.Models.User
+
+@{
+    ViewBag.Title = "Login";
+}
+
+<h2>Login</h2>
+<form action="Contact" method="post">
+Username: @Html.TextBoxFor(m => m.username)<br>
+    @Html.ValidationMessageFor(m => m.username,"",new { @class="text-danger"})
+Password: @Html.TextBoxFor(m => m.password)
+    
+        
+    
+    <input type="submit" value="Submit">
+  
+    </form>
+
